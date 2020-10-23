@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![vue](https://img.shields.io/badge/Vue-black?style=flat-square&logo=vue.js)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=node.js)
+![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
